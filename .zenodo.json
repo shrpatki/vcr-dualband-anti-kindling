@@ -5,7 +5,7 @@
   "license": "mit",
   "version": "1.0.0",
   "creators": [
-    {"name": "Patki, Shreya Abhijit", "affiliation": "Department of Medical Sciences and Technology, Indian Institute of Technology Madras, Chennai, India", "orcid": "0009-0006-6984-3710"}
+    {"name": "Patki, Shreya Abhijit", "affiliation": "Department of Medical Sciences and Technology, Indian Institute of Technology Madras, Chennai, India", "orcid": "0009-0006-6984-3710"}, {"name": "Varadhan, SKM", "affiliation": "Department of Applied Mechanics and Biomedical Engineering, Indian Institute of Technology Madras, Chennai, India", "orcid": "0000-0002-5746-2340"}
   ],
   "keywords": [
     "coordinated reset stimulation",
