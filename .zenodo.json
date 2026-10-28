@@ -1,0 +1,17 @@
+{
+  "upload_type": "software",
+  "title": "vcr-dualband-anti-kindling: simulation code for 'Phase-locked dual-band vibration bursts strengthen anti-kindling by vibrotactile coordinated reset stimulation in a spiking network model'",
+  "description": "Simulation and analysis code",
+  "license": "mit",
+  "version": "1.0.0",
+  "creators": [
+    {"name": "Patki, Shreya Abhijit", "affiliation": "Department of Medical Sciences and Technology, Indian Institute of Technology Madras, Chennai, India", "orcid": "0009-0006-6984-3710"}
+  ],
+  "keywords": [
+    "coordinated reset stimulation",
+    "vibrotactile stimulation",
+    "spike-timing-dependent plasticity",
+    "parkinson's disease",
+    "computational neuroscience"
+  ]
+}
