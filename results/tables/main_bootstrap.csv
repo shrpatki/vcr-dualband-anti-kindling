@@ -1,0 +1,12 @@
+condition,fraction_first
+dual_band,1.0
+chaotic_timing,0.0
+chaotic_order,0.0
+chirped,0.0
+closed_loop,0.0
+interleaved,0.0
+jittered,0.0
+on_off,0.0
+regular,0.0
+smooth,0.0
+synchronous,0.0
