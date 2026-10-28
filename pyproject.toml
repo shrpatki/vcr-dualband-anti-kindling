@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vcr"
+version = "1.0.0"
+description = "Spiking network model of vibrotactile coordinated reset stimulation"
+requires-python = ">=3.11"
+dependencies = ["numpy", "numba", "scipy", "pandas", "joblib", "matplotlib"]
+
+[tool.setuptools]
+packages = ["vcr"]
